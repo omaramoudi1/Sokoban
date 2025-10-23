@@ -23,6 +23,8 @@ Example level:
 Legend: # = wall, . = goal, $ = box, @ = player, (space) = floor
 
 ## Project Layout
+
+```
 src-sokobanAmoudi/
 ├── src/                   # Java source code
 ├── bin/                   # compiled class files
@@ -31,6 +33,8 @@ src-sokobanAmoudi/
 ├── sokobanTexteAmoudi.jar # terminal version
 ├── .gitignore
 └── README.md
+```
+
 
 ## Author
 Created by Omar Amoudi (2025) 
