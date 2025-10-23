@@ -33,8 +33,7 @@ src-sokobanAmoudi/
 └── README.md
 
 ## Author
-Created by Omar Amoudi (2025) — University of Lille
-
+Created by Omar Amoudi (2025) 
 ## License
 Released under the MIT License
 
